@@ -11,8 +11,24 @@ But today, I'm no longer a developer.
 My job is not to develop new features, nor mantain a system.
 I'm a Software the kind of guy you call when things are not working anymore.
 Maybe new development has stalled, or bugs are appearing more often.
-Regardless, there is always a deeper cause and is my job to find which.
+Regardless, there is always a deeper cause and is my job to find what.
 
+For a couple of years, I've been searching for a taxonomy to classify systems.
+Not having found one in Software I looked into other areas to find a blueprint
+to later translate. 
+My first instinct was to look in architecture, 
+after all the name is already implied in Software Architecture.
+I wanted to understand how different architectural styles are classified.
+And different constructions are appraised.
+
+But I found little use in it, architecture is after all a fine art.
+And most of the information I found was mnemonic, subjective and without a thread 
+of logic to connect the distinct parts.
+
+Last year, as I was studying self-healing systems I stumble on information of how 
+the body self-heals. That got me thinking, I was searching for answers in the anals of human knowledge, while nature is often cited as wise, and the human the body as the perfect machine.
+
+I got confirmation from that 
 
 
 
