@@ -1,5 +1,25 @@
 Principles of Software Pathology
 
+Pathos is Greek for suffering. 
+And in medicine, pathology is the study of the causes and effects of disease or injury. 
+
+As a Software developer I learn the arts of clean code including KISS, DRY and SOLID.
+While learning my favorite was the Zen of Python, succint and beautiful.
+And as I moved to AWS I learned the 5 pillar of a well-architected framework.
+
+But today, I'm no longer a developer. 
+My job is not to develop new features, nor mantain a system.
+I'm a Software the kind of guy you call when things are not working anymore.
+Maybe new development has stalled, or bugs are appearing more often.
+Regardless, there is always a deeper cause and is my job to find which.
+
+
+
+
+
+
+------------------------------------------------------------------------------
+
 As I make the transition from Software Developer to Consultant
 I face the following problem: how to objectively evaluate a code base in a short time.
 
