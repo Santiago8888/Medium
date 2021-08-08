@@ -1,5 +1,8 @@
 Principles of Software Pathology
 
+------------------------------------------------------------------------------
+
+
 Pathos is Greek for suffering. 
 And in medicine, pathology is the study of the causes and effects of disease or injury. 
 
@@ -44,11 +47,11 @@ And six months ago I was ready to start learning about medicine and apply
 it to diagnosing the health of Software systems. Except, there was a problem:
 Doctors spend several years learning about medicine, how to absorb that knowledge quickly? I started at anatomy, but it also proved a mostly mnemonic excersice.
 
-
-
-
-
-
+The answer came while learning about Machine Learning in healthcare at MIT.
+They have a program called GEMS, for non-medical students that need rapid exposure to the industry.
+And the first course is principles of pathology using the mythical Robbins textbook.
+During the last 2 months I've been abosribing the informaton.
+And here in so forth present to you my findings.
 
 ------------------------------------------------------------------------------
 
