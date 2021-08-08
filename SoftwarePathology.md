@@ -2,6 +2,36 @@ Principles of Software Pathology
 
 ------------------------------------------------------------------------------
 
+How do you measure the health of a Software System?
+When you have pain and go to a doctor, you'll be given an answer.
+And possibly some medicaments or treatment recomendations.
+Besides, the doctor will explain what disease you have, syntomps and possible consequences.
+
+But what happens in Software Engineering? 
+There is no lexicon to explain the status of the system.
+Recommendations are often subjective, based on experience.
+And there are no analysis to make a precise diagnosis.
+And treatments is often reduced to a refactor.
+
+My goal in this post, is to explain how Pathology, the study of suffering 
+is studied in Medicine. By analogy, my hope is to have at the end of the post
+a glimpse of how a scientific approach to Software Development might look.
+
+The post will be based on the classic textbook Robbins' Principles of Pathology 10th edition.
+The book is used across multiple universities, and is often an elementary step of a doctor's education. It is also used by the GEMS MIT speciality tailored to students foreign to the medical industry that need an introduction to the subject.
+
+In the post, I will explain what health is from a medical point of view and how it can be translated to Software. How the cells in the body get injured, and either recover or die. I will speak about aging, genetic diseases, the immune system and the primary causes of disease in the human body: failure to adapt. I will also speak about the ciruculatory system which has the mission to bring nutrients and oxigen to the rest of the cells. Serious diseases are often a symptom of an underlying failure in the circulatory system. Finally, I will speak about inflamation the prefered choice for the body to self-heal a part of the body.
+
+Most importantly, in this essay I will talk about Software Engineering. How can we understand health in a system, how to build and measure resillency, and ability to adapt. How to monitor it, and develop static code analysis to overviwew in a glimpse a whole system. Finally I will talk about the steps that Software Engineering needs to take to have a comprehensive understanding of how to build and develop robust systems.
+
+Medicine has gone a long way, extending the expected life and dramatically reducing child mortality. More importanly, quality of life has significantly gotten better and there are cheap remedies to treat common diseases. New diseases, are studied, analyzed and cured or prevented with vaccines. And there is Hypocratical oat that brings a common level of ethic among practicioners.
+
+ 
+
+
+
+
+------------------------------------------------------------------------------
 
 Pathos is Greek for suffering. 
 And in medicine, pathology is the study of the causes and effects of disease or injury. 
@@ -74,6 +104,7 @@ their goal is to bolster their platform to prepare to scale.
 
 I specialize in AWS, DevOps. 
 
+------------------------------------------------------------------------------
 
  
 
