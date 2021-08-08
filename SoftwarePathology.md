@@ -28,7 +28,23 @@ of logic to connect the distinct parts.
 Last year, as I was studying self-healing systems I stumble on information of how 
 the body self-heals. That got me thinking, I was searching for answers in the anals of human knowledge, while nature is often cited as wise, and the human the body as the perfect machine.
 
-I got confirmation from that 
+I got confirmation from that earlier when studying how vision works.
+Interestingly, the architecture of a deep neural netowrk 
+is not that different from how neurons are arranged from the retina to the optic nerve.
+The same recongnized patterns start to emerge as with convolutional layers.
+
+
+A second hint, that nature might provide the framework I was searching 
+was when studying the distribution mechanisms of viruses.
+Faszcintaing, effective and lethal viruses have perfected their infiltration and
+replication techniques to million of years. 
+I applied those learnings to creating viral go to market strategies.
+
+And six months ago I was ready to start learning about medicine and apply 
+it to diagnosing the health of Software systems. Except, there was a problem:
+Doctors spend several years learning about medicine, how to absorb that knowledge quickly? I started at anatomy, but it also proved a mostly mnemonic excersice.
+
+
 
 
 
