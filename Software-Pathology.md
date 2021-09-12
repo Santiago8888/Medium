@@ -1,4 +1,5 @@
 # Principles of Software Pathology
+## Uncovering the path to the scientifc diagnosis of Software Systems
 
 **Abstract:**
 
