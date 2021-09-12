@@ -16,6 +16,8 @@ That means that a single human stores the same amount of data as we collectively
 
 2) Our brain has 100 billion neurons, that's about the same number of stars in our galaxy. Each neuron has on average 1,000 connections with other neurons. As a civilization, humankind has yet to reach 8 billion people, and on average the 2+ billion Facebook users have 300 "friends". Arguably, our the brain is a network more complex that our society as a whole by a factor of at least 25x.
 
+That is why as a Software Engineer, I approach the study and appreciation of the human body with humbleness. My understanding is that every problem worth solving has already been solved by nature as first shared in The Viral Startup.
+
 
 #### 3.2 Cells are the basis of human health.
 
