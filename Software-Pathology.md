@@ -79,7 +79,9 @@ The food of a function is data, if data is low quality arriving with errors or t
 
 The circulatory system is immpresive in it's own right: it stretches more than 66,000 thousand miles, each cell carries more than 1 million molecules of blood and the heart pumps on average 2.5 billion times during a human life [1].
 
+Speaking of the heart, software systems also have one: the database. How data is queried and fetched is the first step of determining the health of a the Software's circulatory system.
 
+A software consultant can start by mapping how data is flowing to find the potential causes of technical debt.
 
 
 #### 3.6 A surprinsingly big number of diseases are attributed to genes.
