@@ -3,9 +3,12 @@
 
 **Abstract:**
 
+
 ### 1. Introduction
 
+
 ### 2. Background
+
 
 ### 3. Eight Concepts to know about Medical Pathology
 
@@ -63,7 +66,6 @@ In my opinion, we need a new word to capture the complex relation that Software 
 
 When you cut and blood the skin turns redder as it heals. During flu, you cough and get fever as the body fights the virus. Both are symptoms of inflamation the mechanism to bring extra blood (white blood cells - leukocytes) to the damaged area.
 
-
 How does healing ocurrs in a Software system? This is also done by bringing resources (developers) to the afflicted area. When the bug is found, and the soultion is pushed we also leave trails found in the history of Git. Curiously, the area is also stained in red as a fix usually involves more deleted lines of code that new development. There is a second sign of the fix and is the abscence of work in other areas. As more attention and resources are devoted to a bug, the overall productivity of a Software team falls.
 
 
@@ -81,6 +83,7 @@ How does healing ocurrs in a Software system? This is also done by bringing reso
 
 
 ### 4. Case Study: Diagnose the health of a React Application
+
 #### 4.1 Measure the health of React Components.
 
 
@@ -94,6 +97,7 @@ How does healing ocurrs in a Software system? This is also done by bringing reso
 
 
 #### 4.5 Recommend a treatment.
+
 
 ### 5. Next Steps: Turning Software Pathology into a Science
 
