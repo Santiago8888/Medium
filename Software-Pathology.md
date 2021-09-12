@@ -88,6 +88,8 @@ A software consultant can start by mapping how data is flowing to find the poten
 
 Before my research I used to consider genes as static, highly reliable compnents exhibiting a low degree of variance. However, almost 70% of humans suffer from a disease attributed to genetic disorders.
 
+The concept of genetics is foreign and difficult to translate to Software. Fortunately, through my experience I've participated and initiated in a fair ammount of Software projects. And I could argue a portion of these projects where doomed from the begining with their only hope of succeding through a radical change often called pivot.
+
 
 #### 3.7 We have an inmune system to heal ourselves.
 
