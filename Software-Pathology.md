@@ -86,6 +86,8 @@ A software consultant can start by mapping how data is flowing to find the poten
 
 #### 3.6 A surprinsingly number of diseases can be attributed to genes.
 
+Before my research I used to consider genes as static, highly reliable compnents exhibiting a low degree of variance. However, almost 70% of humans suffer from a disease attributed to genetic disorders.
+
 
 #### 3.7 We have an inmune system to heal ourselves.
 
