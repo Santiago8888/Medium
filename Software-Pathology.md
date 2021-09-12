@@ -77,6 +77,9 @@ Everything that a cell has or needs is provisioned by blood. That is why cardiov
 
 The food of a function is data, if data is low quality arriving with errors or too complex a function will suffer and data hygiene is one of the first steps to improve the health of system.
 
+The circulatory system is immpresive in it's own right: it stretches more than 66,000 thousand miles, each cell carries more than 1 million molecules of blood and the heart pumps on average 2.5 billion times during a human life [1].
+
+
 
 
 #### 3.6 A surprinsingly big number of diseases are attributed to genes.
