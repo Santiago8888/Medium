@@ -84,7 +84,7 @@ Speaking of the heart, software systems also have one: the database. How data is
 A software consultant can start by mapping how data is flowing to find the potential causes of technical debt.
 
 
-#### 3.6 A surprinsingly big number of diseases are attributed to genes.
+#### 3.6 A surprinsingly number of diseases can be attributed to genes.
 
 
 #### 3.7 We have an inmune system to heal ourselves.
