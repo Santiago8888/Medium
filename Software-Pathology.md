@@ -17,7 +17,7 @@ That means that a single human stores the same amount of data as we collectively
 
 2) Our brain has 100 billion neurons, that's about the same number of stars in our galaxy. Each neuron has on average 1,000 connections with other neurons. As a civilization, humankind has yet to reach 8 billion people, and on average the 2+ billion Facebook users have 300 "friends". Arguably, our the brain is a network more complex that our society as a whole by a factor of at least 25x.
 
-That is why as a Software Engineer, I approach the study and appreciation of the human body with humbleness. My understanding is that every problem worth solving has already been solved by nature as first shared in The Viral Startup.
+That is why as a Software Engineer, I approach the study and appreciation of the human body with humbleness. My understanding is that every problem worth solving has already been solved by nature as first explained in The Viral Startup.
 
 
 #### 3.2 Cells are the basis of human health.
@@ -43,9 +43,11 @@ The first interesting concept is aging, cells are programmed to die. But hardly 
 
 Even more intersting are the types of cell death. Cells reproduce by mitosis splitting by half creating two distinct new cells. A single cell can die, but also a cell can stop to reproduce, this happens after about 22 times it has reproduced. Could we in software start tracking the number of times a cell is modified and deprecate it once it reaches a certain limit?
 
-We are still far to think about stem cells that have the ability to shape and differentiate into every type of cell in the human body. But I do envision having a repository of template functions classified by what they do. In that sense Software developers would only clone them and adapt them to their needs.
+We are still far to think about stem cells that have the ability to shape and differentiate into every type of cell in the human body. But I do envision having a repository of template stem functions classified by what they do. In that sense Software developers would only clone them and adapt them to their needs.
 
+***
 
+The second interesting concept is that of failure to adapt. Think of it: how many Software projects have failed due to failure to adapt to market conditions? It's not that different for cells that experience external shocks due to exogenous conditions like lack of oxigen, changes in temperature or pathogen (virus, bacteria, etc).
 
 
 #### 3.4 Inflamation is the mechanism for cells to heal.
