@@ -28,10 +28,22 @@ In Software this can be applied to understand that technical debt is the result 
 
 Adopting the function as a minimal unit of Software Health analysis enables us to define concepts as "homeostasis" or "steady state" to empircally determine the characteristics of how a healthy function looks and consequently the health of a Software System. Some hints as to how this would look include:
 
-
+* The number of lines code, variables (internal state), and even tokens or characters.
+* How clear the function and its variables are named.
+* The number of input parameters and return types.
+* Ciclomatic complexity (dependencies). 
+* The number of conditionals and iterations or recursions called.
+* How well errors and exceptions are handled.
+* The number of times and diversity of how the function is invoked.
 
 
 #### 3.3 Cells die due to injury, failure to adapt or age.
+
+The first interesting concept is aging, cells are programmed to die. But hardly think of functions that way, we like to believe they will be used forever. Imagine if a function would be programmed to deprecate? And include in the comments when the function was created, and how long is expected to endure. One year? Three? Or maybe only some months.
+
+Even more intersting are the types of cell death. Cells reproduce by mitosis splitting by half creating two distinct new cells. A single cell can die, but also a cell can stop to reproduce, this happens after about 22 times it has reproduced. Could we in software start tracking the number of times a cell is modified and deprecate it once it reaches a certain limit?
+
+
 
 
 #### 3.4 Inflamation is the mechanism for cells to heal.
