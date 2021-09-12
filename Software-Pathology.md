@@ -43,6 +43,8 @@ The first interesting concept is aging, cells are programmed to die. But hardly 
 
 Even more intersting are the types of cell death. Cells reproduce by mitosis splitting by half creating two distinct new cells. A single cell can die, but also a cell can stop to reproduce, this happens after about 22 times it has reproduced. Could we in software start tracking the number of times a cell is modified and deprecate it once it reaches a certain limit?
 
+We are still far to think about stem cells that have the ability to shape and differentiate into every type of cell in the human body. But I do envision having a repository of template functions classified by what they do. In that sense Software developers would only clone them and adapt them to their needs.
+
 
 
 
