@@ -7,6 +7,7 @@
 ### 2. Background
 
 ### 3. Eight Concepts to know about Medical Pathology
+
 #### 3.1 The human body is the epitome of a well engineered system.
 Futile is to attempt to describe the level of sophistication of the human body. But here are two example to give you an idea about it:
 
@@ -20,6 +21,10 @@ That is why as a Software Engineer, I approach the study and appreciation of the
 
 
 #### 3.2 Cells are the basis of human health.
+
+A symptomatic disease in the human body is the result of many individual cells. In retrospect, this is obvious but when I first learned the concept it was not. 
+
+In Software this can be applied to understand that technical debt is the result of many poorly desigend individual functions acting together.
 
 
 #### 3.3 Cells die due to injury, failure to adapt or age.
