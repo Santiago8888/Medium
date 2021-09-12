@@ -26,6 +26,10 @@ A symptomatic disease in the human body is the result of many individual cells. 
 
 In Software this can be applied to understand that technical debt is the result of many poorly desigend individual functions acting together.
 
+Adopting the function as a minimal unit of Software Health analysis enables us to define concepts as "homeostasis" or "steady state" to empircally determine the characteristics of how a healthy function looks and consequently the health of a Software System. Some hints as to how this would look include:
+
+
+
 
 #### 3.3 Cells die due to injury, failure to adapt or age.
 
