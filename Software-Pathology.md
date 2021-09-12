@@ -51,7 +51,9 @@ The second interesting concept is that of failure to adapt. Think of it: how man
 
 This leads me to think that Software development is a human activity unlikel every other done in the past. Consider an artist: a painter, sculptour or even architect once their work is finished it's over; they don't need to account for changes in external conditions or even how art will be valued in the future.
 
+The same happens to certain extent with more traditional branches of engineering like civil, chemistry or aeronautical that while facing external conditions they are usually known or planned before-hand. Even scientists, that aim to formulate theories mostly assume the invariability of the laws that govern the they try to understand.
 
+Software is a science of change, and ability to adapt as experienced by different species in nature during their evolution. The only human activities that to my knowledge experience such an uncertain environment are social sciences and business in their continious attempt to predict what the future brings.
 
 
 #### 3.4 Inflamation is the mechanism for cells to heal.
