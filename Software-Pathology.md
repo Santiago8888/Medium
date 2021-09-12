@@ -73,6 +73,11 @@ As the science of Software Pathology is discovered, consultants, or Software Med
 
 #### 3.5 Blood (or its lack of) is the biggest source of cell disease.
 
+Everything that a cell has or needs is provisioned by blood. That is why cardiovascular diseases are the leading cause of deaths globally (18%). If a cell stops receiving oxigen and nutrients its health will deterioriate. That's partly why we excercise to keep the hearth healthy and strong and flux blood to the whole body.
+
+The food of a function is data, if data is low quality arriving with errors or too complex a function will suffer and data hygiene is one of the first steps to improve the health of system.
+
+
 
 #### 3.6 A surprinsingly big number of diseases are attributed to genes.
 
