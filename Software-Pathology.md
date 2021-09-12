@@ -8,6 +8,11 @@
 
 ### 3. Eight Concepts to know about Medical Pathology
 #### 3.1 The human body is the epitome of a well engineered system.
+Futile is to attempt to describe the level of sophistication of the human body. But here are two example to give you an idea about it:
+
+1) Each cell holds about 750MB of data in its DNA, about the same as a legacy CD.
+We have about 1 trillion cells in our body, or close to a XXbyte of data.
+That means that a single human stores the same amount of data as we collectively created as a civilization up to 20XX. Impressive!
 
 
 #### 3.2 Cells are the basis of human health.
