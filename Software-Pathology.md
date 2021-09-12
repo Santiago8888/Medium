@@ -68,6 +68,8 @@ When you cut and blood the skin turns redder as it heals. During flu, you cough 
 
 How does healing ocurrs in a Software system? This is also done by bringing resources (developers) to the afflicted area. When the bug is found, and the soultion is pushed we also leave trails found in the history of Git. Curiously, the area is also stained in red as a fix usually involves more deleted lines of code that new development. There is a second sign of the fix and is the abscence of work in other areas. As more attention and resources are devoted to a bug, the overall productivity of a Software team falls.
 
+As the science of Software Pathology is discovered, consultants, or Software Medics will use the Git history to diagnose which areas are in pain and need treatment. 
+
 
 #### 3.5 Blood (or its lack of) is the biggest source of cell disease.
 
