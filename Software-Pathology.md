@@ -49,6 +49,10 @@ We are still far to think about stem cells that have the ability to shape and di
 
 The second interesting concept is that of failure to adapt. Think of it: how many Software projects have failed due to failure to adapt to market conditions? It's not that different for cells that experience external shocks due to exogenous conditions like lack of oxigen, changes in temperature or pathogen (virus, bacteria, etc).
 
+This leads me to think that Software development is a human activity unlikel every other done in the past. Consider an artist: a painter, sculptour or even architect once their work is finished it's over; they don't need to account for changes in external conditions or even how art will be valued in the future.
+
+
+
 
 #### 3.4 Inflamation is the mechanism for cells to heal.
 
