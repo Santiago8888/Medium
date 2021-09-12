@@ -12,7 +12,9 @@ Futile is to attempt to describe the level of sophistication of the human body. 
 
 1) Each cell holds about 750MB of data in its DNA, about the same as a legacy CD.
 We have about 1 trillion cells in our body, or close to a XXbyte of data.
-That means that a single human stores the same amount of data as we collectively created as a civilization up to 20XX. Impressive!
+That means that a single human stores the same amount of data as we collectively created as a society up to 20XX. Impressive!
+
+2) Our brain has 100 billion neurons, that's about the same number of stars in our galaxy. Each neuron has on average 1,000 connections with other neurons. As a civilization, humankind has yet to reach 8 billion people, and on average the 2+ billion Facebook users have 300 "friends". Arguably, our the brain is a network more complex that our society as a whole by a factor of at least 25x.
 
 
 #### 3.2 Cells are the basis of human health.
