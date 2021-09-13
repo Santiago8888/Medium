@@ -140,6 +140,8 @@ After figuring out how healthy individual components, ideally we would like to k
 
 ![Diagram Flow]()
 
+Using flow diagrams we could start to detect if some components are saturated, or if through some data needs to travel a long journey. We could also spot components that are reused several times and by implementing color system based on health we can learn if there are sections of the application that are severly harmed, or if the damage is evenly spread across the application. Different treatments and recommendations would apply for each case.
+
 
 #### 4.3 Review the short term history of Git commits.
 
