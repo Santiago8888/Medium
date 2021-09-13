@@ -129,12 +129,16 @@ The first analysis a Software consultant (or Tech Lead) when approaching a new R
 
 As an example consider the scc GitHub package that measures the lines of code, estimated cost and complexity for a project. Written in go, the package analyzes the source code in a matter of seconds. While doubters might be skeptical, an efficient measurement of the health of a component can be figured out by aggregating data from a plethora of components. The possibility to relate bug reports (or GitHub issues) to pull requests, compare and measure the development times across sections of the code and evaluating which parts are easier to onboard than others. We could, theoritically, train machine learning models to predict based on obeservable data how healthy or "injured" the overall source code is. While gaining precise insight of where the problems are.
 
-The results could be obtained by CLI just as in the case of scc:
+The results could be obtained by CLI and sorted by health just as in the case of scc:
 
-![]()
+![Image of CLI]()
 
 
 #### 4.2 Map the flow of data through components.
+
+After figuring out how healthy individual components, ideally we would like to know how those components are related. I propose the traditional flow diagrams to map how data flows thorugh components. Like a river born in the midst of a mountain, React applications are pyramidal architectures where data flows downward.
+
+![Diagram Flow]()
 
 
 #### 4.3 Review the short term history of Git commits.
