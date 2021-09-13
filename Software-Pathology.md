@@ -127,6 +127,8 @@ For this hypotetical excersice I will use the opinionated architecture of a Reac
 
 The first analysis a Software consultant (or Tech Lead) when approaching a new React application would be the relative health of components based on the rules highlighted on section 3.2, that include the length of a function (or component), the number of dependencies, error handling, etc. 
 
+As an example consider the scc GitHub package that measures the lines of code, estimated cost and complexity for a project. Written in go, the package analyzes the source code in a matter of seconds. While doubters might be skeptical, an efficient measurement of the health of a component can be figured out by aggregating data from a plethora of components. The possibility to relate bug reports (or GitHub issues) to pull requests, compare and measure the development times across sections of the code and evaluating which parts are easier to onboard than others. We could, theoritically, train machine learning models to predict based on obeservable data how healthy or "injured" the overall source code is. While gaining precise insight of where the problems are.
+
 
 
 #### 4.2 Map the flow of data through components.
