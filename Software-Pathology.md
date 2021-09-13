@@ -108,7 +108,11 @@ While entering the realm of speculation, a protective system can go as far as ta
 
 I just want to share how deep the science of medicine goes, and how far are we as Software Developers to turn our empirical knowledge into a structured, sharable understanding. After determinining that cells are the basis of health, and carefully classifying each type of cell based in their function on the human body. Doctors have also studied how cells are connected linking celular biology with anatomy and physiology.
 
+How many times have you encountered a project that is a turmoil of functions? In the human body the connection between cells is tridimensional, but in Software it can get much more complicated: as a single dependency could be shared by the two farthest applications solving completely different problems.
 
+Even more that understanding how histology works in detail my goal is to bring awarencess to how unconsciously do we produce Software as compared with other disciplines that have a milenary tradition. And that no matter how technologically our tools and fancy our solutions are, we can approach the consolidation of our science with awe and inspiration from those that have already faced and solved such problems.
+
+We like to think that Software is complicated, and the ecosystem is vast full of different technologies, languages and providers but if compared with the vast creative power of evolution and the complex taxonomy that has originated in life sciences we are still early in our infancy and are no different to the Greeks and Aristotles attempting to order their world around them.
 
 
 
