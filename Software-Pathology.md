@@ -97,6 +97,8 @@ When developing software we hardly stop to think of the history of a project but
 
 Self-healing systems have been increasingly part of the the SREs toolbox, with complex canary configurations in Kubernetes clusters. A predominant acceptance on the benefits of testing and the automation of code reviews and other Git workflows the concept of an inmune system in Software is closer to reality that we might think.
 
+The next step is learning from how it works in the human body. The inmune system is divided in 2: innate and adaptative. The innate has learned from diseases and pathogens that have accompanied us during our evolution. The adaptative, on the contrary, learns only from the comparatively short period of time that comprises our lives and sometimes that of our close ancestors.
+
 
 
 #### 3.8 Histology is the study of tissues or how cell are connected.
