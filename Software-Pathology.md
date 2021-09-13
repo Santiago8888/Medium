@@ -106,6 +106,10 @@ While entering the realm of speculation, a protective system can go as far as ta
 
 #### 3.8 Histology is the study of tissues or how cell are connected.
 
+I just want to share how deep the science of medicine goes, and how far are we as Software Developers to turn our empirical knowledge into a structured, sharable understanding. After determinining that cells are the basis of health, and carefully classifying each type of cell based in their function on the human body. Doctors have also studied how cells are connected linking celular biology with anatomy and physiology.
+
+
+
 
 
 ### 4. Case Study: Diagnose the health of a React Application
