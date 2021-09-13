@@ -145,8 +145,18 @@ Using flow diagrams we could start to detect if some components are saturated, o
 
 #### 4.3 Review the short term history of Git commits.
 
+The final analysis I would ask is understanding where the attention and resources have been allocated during the most recent weeks. The chart I would propose is an area chart where different sections of the code would get a different color. Above the horizontal axis are the additions (as measured by lines), while below are the deletions.
+
+![Time Chart]()
+
+
+This analysis would bring me two pieces of information:
+1. How productivity compares across different weeks (uniform, with spikes, declining, etc.)
+2. Are there certain sections that hoard resources?
+
 
 #### 4.4 Classify the encountered pathologies.
+
 
 
 #### 4.5 Recommend a treatment.
