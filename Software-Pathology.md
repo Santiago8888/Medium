@@ -95,6 +95,9 @@ When developing software we hardly stop to think of the history of a project but
 
 #### 3.7 We have an inmune system to heal ourselves.
 
+Self-healing systems have been increasingly part of the the SREs toolbox, with complex canary configurations in Kubernetes clusters. A predominant acceptance on the benefits of testing and the automation of code reviews and other Git workflows the concept of an inmune system in Software is closer to reality that we might think.
+
+
 
 #### 3.8 Histology is the study of tissues or how cell are connected.
 
