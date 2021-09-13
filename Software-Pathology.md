@@ -120,6 +120,8 @@ We like to think that Software is complicated, and the ecosystem is vast full of
 
 During the next lines, I want to imagine how the job of a consultant would look following the analogy of a doctor and a patient. And how is not entirely unlikely that in the near future just as the doctor has the possibility to request analysis to make informed decisions, our Software development process and communication with stackholders could be dramatically tranformed by using quantifiable metrics and aggregated data to make decisions.
 
+For this mental excersice I will use the opinionated architecture of a React Application because it follows a functional paradigm, with unidirectional flow of data and reusable components.
+
 
 #### 4.1 Measure the health of React Components.
 
