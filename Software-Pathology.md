@@ -99,6 +99,9 @@ Self-healing systems have been increasingly part of the the SREs toolbox, with c
 
 The next step is learning from how it works in the human body. The inmune system is divided in 2: innate and adaptative. The innate has learned from diseases and pathogens that have accompanied us during our evolution. The adaptative, on the contrary, learns only from the comparatively short period of time that comprises our lives and sometimes that of our close ancestors.
 
+Probably the next step in self-healing systems would be preventing problems before the systems arrive. This can happen as soon as we are developing. By establishing the rules of what comprises quality Software (an evolution from linting), and possibly with the aid of AI technilogy as GitHub's co-pilot I can imagine the Software integritity being defended from their most harmful intruders: Software Developers.
+
+While entering the realm of speculation, a protective system can go as far as task definition on project management Software. If BDD practices are well adopted and user stories are defined according to them, this is by no means an impossible task to imagine!
 
 
 #### 3.8 Histology is the study of tissues or how cell are connected.
