@@ -88,7 +88,9 @@ A software consultant can start by mapping how data is flowing to find the poten
 
 Before my research I used to consider genes as static, highly reliable compnents exhibiting a low degree of variance. However, almost 70% of humans suffer from a disease attributed to genetic disorders.
 
-The concept of genetics is foreign and difficult to translate to Software. Fortunately, through my experience I've participated and initiated in a fair ammount of Software projects. And I could argue a portion of these projects where doomed from the begining with their only hope of succeding through a radical change often called pivot.
+The concept of genetics is foreign and difficult to translate to Software. Fortunately, through my experience I've participated and initiated a fair ammount of Software projects. And I could argue that a portion of those projects where doomed from the begining, a majority of which due to business reasons. After several iterations, these projects have accumulated so much technical debt that is impossible to develop new features. Others, because of poor technical decisions may be better to start them from scratch.
+
+When developing software we hardly stop to think of the history of a project but it is often the case that the people behind a project are often more rigid than the source code itself. And there is a whole set of unexplored maladies that involve the interaction between software development and stackholders or team members. Either because a key member left, a difference in vision or the lack of agile frameworks to guide the project when evaluation the health of a Software project is not enough to consider code.
 
 
 #### 3.7 We have an inmune system to heal ourselves.
