@@ -152,17 +152,24 @@ The final analysis I would ask is understanding where the attention and resource
 
 This analysis would bring me two pieces of information:
 1. How productivity compares across different weeks (uniform, with spikes, declining, etc.)
-2. Are there certain sections that hoard resources?
+2. Are there certain sections of the code that hoard resources?
+
+You can start to see how many variations of these analysis could be performed to learn particular  
 
 
 #### 4.4 Classify the encountered pathologies.
-
 
 
 #### 4.5 Recommend a treatment.
 
 
 ### 5. Next Steps: Turning Software Pathology into a Science
+
+#### 5.1 A lexicon of diseases
+
+#### 5.2 An understanding of causality
+
+#### 5.3 A plethora of treatments
 
 
 ### 6. Conclusion
