@@ -26,6 +26,9 @@ After my first months as a Tech Lead I wrote down the tools I required and it wa
 
 ### 3. Eight Concepts to know about Medical Pathology
 
+MIT has a program for non-medical practicioners called GEMS to get an introductory understanding of the medical profession. The first subject, and the only one mandatory is Principles of Pathology based on the homologous book by . Robbins. The next section contains reflections from the initial chapters. My experience is limited to 2 months of research, professional interactions in the healthcare industry as a consultant and previous knowledge from past writings [1][2][3].
+
+
 #### 3.1 The human body is the epitome of a well engineered system.
 
 Futile is to attempt to describe the level of sophistication of the human body. But here are two example to give you an idea about it:
