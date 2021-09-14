@@ -227,6 +227,13 @@ The dictionary of treatments should follow the taxonomy of Software maladies, wi
 
 ### 6. Conclusion
 
+There is no good story without a risk, and today I'm grateful to the ocassional strangers that I meet through my writings. Communication is a strange desire, what is it in our nature that coerces us to want to connect to others? But instead of fighting the impulse I've given an honest effort to motivate discussion as to what tools, frameworks and knowledge do we need to have more succesful outcomes in our pursuits.
+
+My hope is not that these ideas are recnognized or even acknowledged but instead that by random efforts like this one I find the answers to the ever increasing problem of how to do Software right. If you can relate to some of these ideas I would like to connect with you, you can also follow me on Twitter and I would really appreciate your claps and follow, if you are a Medium member thank you for monetary fueling my passion, and if not you are also contributing only by reading this: thank you! And as you may expect I'm open for consulting, I favor short-term part-time challenging projects focused in AI and soon crypto.
+
+Best regards,
+Santiago M. 
+
 
 ### 7. Bibliography
 
