@@ -202,7 +202,10 @@ Autopsies were a major breakthrough for medicine, this was because of the possib
 
 #### 5.3 A plethora of treatments
 
-The science of causality is key to linking diagnostics with treatments.
+The science of causality is key to linking diagnostics and treatments. But only a well documented, rigorous and actively maintened dictionary of treatments will be sufficient to complete the scientific method for Software Engineering. In prehistory, plants and remedies were shared orally and we think of that with superiority. But when was the last time you opened a book to fix a problem? Solutions are instead offered through sites like StackOverflow that lack depth, would you be willing to receive medical treatment after submitting a single paragraph to a doctor?
+
+The dictionary of treatments should follow the taxonomy of Software maladies, with recommendations, precautions and tools to fix the problem. As well as documented evidence to communicate required actions to business stackholders.
+
 
 ### 6. Conclusion
 
