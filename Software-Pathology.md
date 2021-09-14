@@ -170,6 +170,14 @@ The consultant in this scenario would need to classify the problem (or circumstn
 
 #### 4.5 Recommend a treatment.
 
+Only when the problem is diagnosed can a treatment be proposed. If different stackholders agree on the problem finding the best solution is easier. Examples:
+
+* Insufficient experience in front & back but there are only resources for one new hire: in that scenario a senior consultant could be hired while junior developers are trained. As a benefit the headcount would not increase in the long-term.
+* A new feature is requested in a section where there is enough technical debt to disencourage development: maybe an alternative solution can be found to achieve the business outcome without involving the Software team. In that scenario, the team would in turn work on paying back the technical debt.
+* Tasks usually take longer than expected: perhaps there is oportunity for automation, or better guidelines could be proposed for code reviews, or maybe revisiting scrum practices.
+
+Ideally these treatments are based on data, just as medical treatments and new drugs are pushed. As software engineers we are used to apply logic to our problems, not understanding that we are dealing with probabilistic scenarios where cognitive bias are disguised as logical thoughts.
+
 
 ### 5. Next Steps: Turning Software Pathology into a Science
 
