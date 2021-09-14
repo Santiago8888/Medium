@@ -181,6 +181,11 @@ Ideally these treatments are based on data, just as medical treatments and new d
 
 ### 5. Next Steps: Turning Software Pathology into a Science
 
+Medicine was not always scientifical, in the past doubtious remedies like bleeding or trepanation where used despite their limited efficiency, often worsening injuries. Medical theory was based on humours and elements, and closely tied to Alchemy and Astrology, treatments were based on induction instead of observation and the scientific method. Future Software scientistis would look in the same astonishment our artisictic crafting of Object Oriented Principles with the hope of stumbling the right architechture for an everchanging landscape.
+
+Software development, a nascent science is not that different from medieval science fighting religously the Black Death. While sofisticated our software practices are no different, based on argumentation dialectics, power dynamics and mysticism. Hopefully, there is a solution and in with time and by destinating resources in 3 directions we might change the fate of Software, improve the success rate of projects and create a common understanding of our practice. Hence, following the analogy I present the 3 required directions:
+
+
 #### 5.1 A lexicon of diseases
 
 #### 5.2 An understanding of causality
