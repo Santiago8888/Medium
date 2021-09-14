@@ -188,6 +188,13 @@ Software development, a nascent science is not that different from medieval scie
 
 #### 5.1 A lexicon of diseases
 
+In biology, species are classified by family often using names derived from latin. This enables to communicate about them. However, in Software our lexicon to speak about problems is limited, we often we use terms interchangigly or the same term to refer to multiple problems. This creates communication problems, inefficiencies and lack of scientific rigour.
+
+I often thought of the labor of classifying as boring and pointless but only when appreciating how important foundations truly are can I contemplate the activity in its full complexity. Today, classifying animals in vertebrates and invertebrates appears obvious also in their respective kingdoms: birds, mammals, insects, etc. But you have to wonder: how many iterations did those classifications went through to stumble into such precise classes? And how will a taxonomy of software would look like?
+
+While the Principles of Software Pathology would only focus on the classification of maladies, this is by no means the only goal. And in fact, the taxonomy of diseases would need to be build from deeper foundations which correctly identify the components of a Software project in both terms: human and technological, as well as allocating room for constant innovation.
+
+
 #### 5.2 An understanding of causality
 
 #### 5.3 A plethora of treatments
