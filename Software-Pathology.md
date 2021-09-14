@@ -154,10 +154,18 @@ This analysis would bring me two pieces of information:
 1. How productivity compares across different weeks (uniform, with spikes, declining, etc.)
 2. Are there certain sections of the code that hoard resources?
 
-You can start to see how many variations of these analysis could be performed to learn particular  
+You can start to see how many variations of these analysis could be performed to learn particular characteristics of the code. But now we get to the interesting part of consulting where creativity, experience and design matters.
 
 
 #### 4.4 Classify the encountered pathologies.
+
+Imagine the scenario of planning a new feature, or a system that is not performing as expected. Maybe the organization is contemplating a migration or they are evaluating a new member. Each of these scenarios present different options and there is not a solution that fits all. Before suggesting a treatment, a doctor first diagnosis the disease based on an array of well understood classes each one having distinctive symptoms, causes and affecting different patients.
+
+The consultant in this scenario would need to classify the problem (or circumstnance) based on a predefined well known list of problems. However, as opposed to doctors we do not have that list so the best we could do is ennounce a diagnostic that could liik like:
+
+* 
+* 
+* 
 
 
 #### 4.5 Recommend a treatment.
