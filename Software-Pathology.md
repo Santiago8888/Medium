@@ -6,6 +6,12 @@
 
 ### 1. Introduction
 
+Pathology is the science that studies human suffering, it's an elementary subject in the medical training to correctly diagnose and treat human patients. Their modern foundations came accompanied with the invention of the microscope and the discovery that microscopes were the cause of many infectious diseases. The application of the scientific method to medicine brought the end to unsubstantiated theories that considered disease as the expression of cosmic inbalances part of pseudo-sciences like Alchemy and Astrology.
+
+Software Development is not that different from those dark ages of medicine. Our craft and skills are mostly acquired by tradition where learning is done through mentorships. Remedies lack the precision of typical medical treatments measured in scientific units to prevent deadly repercusions. And yet we wondered, that many Software projects fail and view the adoption of improvisational methodologies like Agile as the panacea to overly complex science and crucial component of our daily lives and society.
+
+I invite you to read with open mind, some of the analogies will seem exaggerated, others speculative and some even disrepctuful or false. My goal, is not to say something new but rather to invite reflection as what we can do as Software Developers to improve in our craft, payback the trust that society has in us, and elevate our profession.
+
 
 ### 2. Background
 
@@ -13,6 +19,7 @@
 ### 3. Eight Concepts to know about Medical Pathology
 
 #### 3.1 The human body is the epitome of a well engineered system.
+
 Futile is to attempt to describe the level of sophistication of the human body. But here are two example to give you an idea about it:
 
 1) Each cell holds about 750MB of data in its DNA, about the same as a legacy CD.
