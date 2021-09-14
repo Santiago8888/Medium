@@ -15,6 +15,14 @@ I invite you to read with open mind, some of the analogies will seem exaggerated
 
 ### 2. Background
 
+I was the most surprised when first named Tech Lead, I certainly didn't receive any training nor did I requested the promotion. Is not that I didn't wanted it but I certainly did not knew how to manage a whole team from day one. The same happened as I first became a Software Developer, proudly self-taught, my education consisted of online courses, algorithm challenges, and StackOverflow. It was on me to learn how to design a database, mantain a Linux Server, and craft user friendly designs.
+
+Today, I face a new challenge, I'm a Software consultant and I need to quickly assess the health of a code base and emmit elocuent recommendations to fix problems, improve productivity and upskill a team. Documentation and other skills that I learned as a Tech Lead seem comparatively slow to accomplish these tasks, and as I evaluate my own decisions I see how limited my arsenal trully is and how impossible it is to explain years of experience to others. Yet, as I contemplate my own limitations I've also seen the drastic improvement that good leadership makes.
+
+During my early stages as a consultant I searched for books that would help me perform my job, I looked in books talking about Clean Architecture, Project Management, Consulting and how tech is done in the most succesful organization yet nowhere did I find answers to my questions. I later looked to other sciences as architecture and biology to only then fortunately find the answers in the medical practice of Pathology. As I've said in the past it is my firm belief that is easier to translate knowledge from other areas instead of attempting to reinvent the wheel.
+
+After my first months as a Tech Lead I wrote down the tools I required and it was rewarding to learn that my vision was shared by others. Today, I seat down to write my thoughts with the hope of connecting with like minded people and hopefully share some of my learnings and maybe inspiring to action.
+
 
 ### 3. Eight Concepts to know about Medical Pathology
 
