@@ -163,9 +163,9 @@ Imagine the scenario of planning a new feature, or a system that is not performi
 
 The consultant in this scenario would need to classify the problem (or circumstnance) based on a predefined well known list of problems. However, as opposed to doctors we do not have that list so the best we could do is ennounce a diagnostic that could liik like:
 
-* 
-* 
-* 
+* Feature specification  and expected outcomes are ambiguous.
+* Shared dependencies are blocking new development.
+* Insufficient monitoring infrastructure.
 
 
 #### 4.5 Recommend a treatment.
