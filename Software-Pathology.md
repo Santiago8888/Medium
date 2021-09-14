@@ -1,7 +1,7 @@
 # Principles of Software Pathology
 ## Uncovering the path to the scientifc diagnosis of Software Systems
 
-**Abstract:**
+**Abstract:** Compared to medical treatment, software consulting is a rudimentary activity lacking standarized practices and predictable outcomes. I will present introductory concepts of Human Pathology and how they relate to Software Development. Aditionally, I propose a methodology to show how a Software consultant could apply these concepts to evaluate, diagnose and improve React Applications. Finally, I'll share some reflections of the actions needed to be taken at the guild of Software Engineers to adopt the scientific methodology in our daily practices.
 
 
 ### 1. Introduction
