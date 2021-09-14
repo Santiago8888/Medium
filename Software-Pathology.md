@@ -197,8 +197,12 @@ While the Principles of Software Pathology would only focus on the classificatio
 
 #### 5.2 An understanding of causality
 
+Autopsies were a major breakthrough for medicine, this was because of the possibility to examine causes of death, learn anatomy and validate hypothesis. Today, it seems irrational that at some point they were perceived as sacrilagious yet today the same happens to Software. In favor of today sacred values like intelectual property, business interests or the pride of participants the process of analysing the causes of failure in software projects is left to the painstaking process of accumulating experience. And there is little possibility to compare, aggregate and discuss at a deep level our own experiences.
+
+
 #### 5.3 A plethora of treatments
 
+The science of causality is key to linking diagnostics with treatments.
 
 ### 6. Conclusion
 
