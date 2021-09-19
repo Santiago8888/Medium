@@ -58,3 +58,8 @@ In Traction, Duck Duck Go founder expains that there are 19 different acquisitio
 
 ### 7. Conclusion
 
+* Why your business needs a newsletter.
+* Why you should outsource newsletter.
+* Why newsletters.cf is tyour best option at the moment.
+
+
