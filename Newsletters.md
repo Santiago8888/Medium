@@ -7,12 +7,16 @@
 
 In Traction, Duck Duck Go founder expains that there are 19 different acquisition channels that business owners should try. He acknowledges, that not every acquisition channel works for every business and that business need different channels at different times. For startups, the right acquisition channel is the one that helps getting closer to the next funding round.
 
-History of mobile apps and web development.
+* History of mobile apps and web development.
 
-Benefits of newsletters on this age.
+* Benefits of newsletters on this age.
 
 
-### 2. Motivation
+### 2. Background
+
+* How I discovered newsletters.
+
+* Challenges I face as I transitioned to newsletters.
 
 
 ### 3. Economic Benefits of Newsletters
@@ -47,10 +51,10 @@ Benefits of newsletters on this age.
 
 #### 6.1 Our value propostion
 #### 6.2 How we work and deliver results
-#### 6.3 The Roadmap
+#### 6.3 Public Roadmap
 #### 6.4 Contact Info & Pricing
+#### 6.5 Fundraising & Scaling
 
 
 ### 7. Conclusion
-
 
