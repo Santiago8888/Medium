@@ -2,7 +2,10 @@
 
 **Abstract:** Competition in the digital space has increased as the result of tech giants monopolizing internet traffic and consumer's attention. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads. Applying advances in AI and content marketing opens opportunities to deliver personalized experience with newsletters at a fraction of the cost of traditional mediums.
 
+
 ### 1. Introduction
+
+In Traction, Duck Duck Go founder expains that there are 19 different acquisition channels that business owners should try. He acknowledges, that not every acquisition channel works for every business and that business need different channels at different times. For startups, the right acquisition channel is the one that helps getting closer to the next funding round.
 
 
 ### 2. Motivation
@@ -44,6 +47,6 @@
 #### 6.4 Contact Info & Pricing
 
 
-### 7. Conclussion
+### 7. Conclusion
 
 
