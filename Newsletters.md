@@ -7,6 +7,10 @@
 
 In Traction, Duck Duck Go founder expains that there are 19 different acquisition channels that business owners should try. He acknowledges, that not every acquisition channel works for every business and that business need different channels at different times. For startups, the right acquisition channel is the one that helps getting closer to the next funding round.
 
+History of mobile apps and web development.
+
+Benefits of newsletters on this age.
+
 
 ### 2. Motivation
 
