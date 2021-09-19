@@ -10,6 +10,12 @@
 
 ### 3. Economic Benefits of Newsletters
 
+#### 3.1 A digital medium for frequent problems
+#### 3.2 Prorate your customer acquisition costs
+#### 3.3 Develop a human relation with your customer
+#### 3.4 Cheap prototyping and variable CTAs
+#### 3.5 Passwordless, ofline, rapid delivery
+
 
 ### 4. Engineering Challenges of Newsletters
 
