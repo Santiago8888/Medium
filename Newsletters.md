@@ -1,6 +1,6 @@
 # The Economics and Engineering behind Newsletters
 
-*Abstract*
+**Abstract:** Competition in the digital space has increased as the result of tech giants monopolizing internet traffic and consumer's attention. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads. Applying advances in AI and content marketing opens opportunities to deliver personalized experience with newsletters at a fraction of the cost of traditional mediums.
 
 ### 1. Introduction
 
@@ -27,7 +27,7 @@
 #### 4.5 Debugging delivery: reputation & responsiveness
 
 
-### 5. Five Use Cases for personalized Newsletters
+### 5. Five Use Cases of Personalized Newsletters
 
 #### 5.1 Cord.tech: a labeling tool to speed your AI pipeline
 #### 5.2 Morada Uno: leasing insurance for landlords
