@@ -15,6 +15,7 @@
 #### 3.3 Develop a human relation with your customer
 #### 3.4 Cheap prototyping and variable CTAs
 #### 3.5 Passwordless, ofline, rapid delivery
+#### 3.6 Advertising & other revenue streams
 
 
 ### 4. Engineering Challenges of Newsletters
@@ -37,6 +38,12 @@
 
 ### 6. Newsletters.cf a Dev Studio for your Startup 
 
+#### 6.1 Our value propostion
+#### 6.2 How we work and deliver results
+#### 6.3 The Roadmap
+#### 6.4 Contact Info & Pricing
+
 
 ### 7. Conclussion
+
 
