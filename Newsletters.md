@@ -19,6 +19,12 @@
 
 ### 4. Engineering Challenges of Newsletters
 
+#### 4.1 Specialized, limited CSS support
+#### 4.2 A Recommendation Engine to serve personalized Content
+#### 4.3 An A/B framework to test experiments
+#### 4.4 Scaling with AI Text Summarization & Headline Generation
+#### 4.5 Debugging delivery: reputation & responsiveness
+
 
 ### 5. Five Use Cases for personalized Newsletters
 
