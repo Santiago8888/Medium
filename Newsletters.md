@@ -14,6 +14,8 @@ Today, as SaaS dominate the IPO and startup ecosystem a new customer acquisition
 
 ### 2. Background
 
+Early last year (2020), I launched my first side-projecta job recomendation engine for software engineer jobs and I discovered an obvious truth: driving people to your website is hard. 
+
 * How I discovered newsletters.
 
 * Challenges I face as I transitioned to newsletters.
