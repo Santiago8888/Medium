@@ -14,7 +14,7 @@ Today, as SaaS dominate the IPO and startup ecosystem a new customer acquisition
 
 ### 2. Background
 
-Early last year (2020), I launched my first side-projecta job recomendation engine for software engineer jobs and I discovered an obvious truth: driving people to your website is hard. 
+Early last year (2020), I launched my first side-project a job recomendation engine for software engineers. Then, I discovered an obvious truth: driving people to your website is hard. I experienced the same as a writer: Medium and SEO will get you some traffic but if you truly want a story to be succesful you gotta take distribution in your own hands.
 
 * How I discovered newsletters.
 
