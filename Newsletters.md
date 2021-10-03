@@ -21,7 +21,8 @@ As a result, I turned to Twitter and Social Media to [build an audience]() and o
 The Morning Brew, was the first newsletter that I subscribed to, enjoyed, and became a regular reader. A couple years later, [its acquisition](https://www.axios.com/insider-inc-buys-majority-stake-morning-brew-e6ec0673-4354-4bc7-9feb-e0b149508c9a.html) grabbed headlines by valuing the newsletters and its 3 million subscribers at $75 million: newsletters had become a legit business. This was reinforced by the explosive growth of substack, it seemed that every tech influencer was launching their own newsletter.
 
 Hesitant to jump into the bandwagon, I finally made the decision last month to transition my product into a newsletter. After the beta launch I'm impressed by the results: 
-
+* Quick development cycles as a result of dumping Javascript.
+* 
 
 
 ### 3. Economic Benefits of Newsletters
