@@ -1,15 +1,15 @@
 # The Economics and Engineering behind Newsletters
 
-**Abstract:** Competition in the digital space has increased as the result of tech giants monopolizing internet traffic and consumer's attention. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads. Applying advances in AI and content marketing opens opportunities to deliver personalized experience with newsletters at a fraction of the cost of traditional mediums.
+**Abstract:** Competition in the digital space has increased as a result of the monopilazation of internet traffic and consumer's attention by tech giants. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads by recurrently delivering personalized information to the user's inbox.
 
 
 ### 1. Introduction
 
-In Traction, Duck Duck Go founder expains that there are 19 different acquisition channels that business owners should try. He acknowledges, that not every acquisition channel works for every business and that business need different channels at different times. For startups, the right acquisition channel is the one that helps getting closer to the next funding round.
+In Traction, Duck Duck Go's founder expains that there are [19 different acquisition channels](https://zapier.com/blog/acquire-customers/) that startups should try as part of their go-to market strategy. He acknowledges that not every acquisition channel works for every business and that the right channel may vary depending on the growth stage of the startup. Ultimately, the right acquisition channel is the one gets a startup closer to the goals required to secure the next funding round.
 
-* History of mobile apps and web development.
+In 2008 Apple launched the AppStore serving as the ideal platform to fuel the rise of startups like Uber (2009) & AirBnB (2007) that leveraged an uncompetitive landscape to acquire the critical mass required to fulfill both sides of their marketplaces. Later, as apps floded the AppStore and Javascript frameworks like Angular and React popularized Single Page Applications many of the upside of mobile apps was lost, and startups turned to web applications to begin a new generation of B2B solutions leveraging agile and continous delivery practices.
 
-* Benefits of newsletters on this age.
+Today, as SaaS dominate the IPO and startup ecosystem a new customer acquisition channel is gaining traction. Favoured by their low churn rates, their ideal fit to deliver sales funnels and personalization opportunities, newsletters are poised to disrupt user interfaces, how we consume information and create a new wave of startups selling intelligence leveraging recent advances in AI and recommendation systems.
 
 
 ### 2. Background
