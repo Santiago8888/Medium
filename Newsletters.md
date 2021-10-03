@@ -16,7 +16,8 @@ Today, as SaaS dominate the IPO and startup ecosystem a new customer acquisition
 
 Early last year (2020), I launched my first side-project a job recomendation engine for software engineers. Then, I discovered an obvious truth: driving people to your website is hard. I experienced the same as a writer: Medium and SEO will get you some traffic but if you truly want a story to be succesful you gotta take distribution in your own hands.
 
-As a result, I turned to Twitter and Social Media to build an audience and own my distribution: It worked, I finally got steady traffic for my next project to get my first users and validate the idea. However, I stumbled upon the second hard truth: getting people to return to your website is also difficult. 
+As a result, I turned to Twitter and Social Media to build an audience and own my distribution: It worked, I finally got steady traffic for my next project to get my first users and validate the idea. However, I stumbled upon the second hard truth: getting people to return to your website is also difficult. My product, a data dashboard was encountering a second problem: onboarding was complicated. Even if the product solved a legitimate problem, new users felt overwhelmed by the amount of information. And the beautiful, minimalistic user interface we crafted was not enough to compensate the overload of information.
+
 
 
 * Challenges I face as I transitioned to newsletters.
