@@ -26,7 +26,7 @@ Hesitant to jump into the bandwagon, I finally made the decision last month to t
 * Simplified data engineering by transitioning to batch proccesing.
 * Optimal onboarding experience by delivering only the 20% of data that provides users the most value.
 
-Going forward, I'm even more bullish about newsletters as they will quickly allow me to prototype new charts and features, drive product development with A/B testing and allow development efforts to focus in data science as opposed to engineering. 
+Going forward, I'm even more bullish about newsletters as they will quickly allow me to prototype new charts and features, drive product development with A/B testing and allow development efforts to focus in data science as opposed to engineering. As a former economist the following post examines the rise of newsletters from two different aspects: their economic benefits and engineering oportunties. 
 
 
 ### 3. Economic Benefits of Newsletters
