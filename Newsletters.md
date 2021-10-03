@@ -18,10 +18,10 @@ Early last year (2020), I launched my first side-project a job recomendation eng
 
 As a result, I turned to Twitter and Social Media to [build an audience]() and own my distribution: It worked, I finally got steady traffic for my next project to get my first users and validate the idea. However, I stumbled upon the second hard truth: getting people to return to your website is also difficult. My product, a data dashboard was encountering a second problem: onboarding was complicated. Even if the product solved a legitimate problem, new users felt overwhelmed by the amount of information. And the beautiful, minimalistic user interface we crafted was not enough to compensate the overload of information.
 
-The Morning Brew, was the first newsletter that I subscribed to, enjoyed, and became a regular reader. A couple years later, [its acquisition](https://www.axios.com/insider-inc-buys-majority-stake-morning-brew-e6ec0673-4354-4bc7-9feb-e0b149508c9a.html) grabbed headlines by valuing the newsletters and its 3 million subscribers at $75 million: newsletters had become a legit business. This was reinforced by the explosive growth of substack, it seemed that every tech influencer was launching their newsletter.
+The Morning Brew, was the first newsletter that I subscribed to, enjoyed, and became a regular reader. A couple years later, [its acquisition](https://www.axios.com/insider-inc-buys-majority-stake-morning-brew-e6ec0673-4354-4bc7-9feb-e0b149508c9a.html) grabbed headlines by valuing the newsletters and its 3 million subscribers at $75 million: newsletters had become a legit business. This was reinforced by the explosive growth of substack, it seemed that every tech influencer was launching their own newsletter.
 
+Hesitant to jump into the bandwagon, I finally made the decision last month to transition my product into a newsletter. After the beta launch I'm impressed by the results: 
 
-* Challenges I face as I transitioned to newsletters.
 
 
 ### 3. Economic Benefits of Newsletters
