@@ -29,7 +29,7 @@ Hesitant to jump into the bandwagon, I finally made the decision last month to t
 
 Going forward, I'm even more bullish about newsletters as they will quickly allow me to prototype new charts and features, drive product development with A/B testing and allow development efforts to focus in data science as opposed to engineering. As a former economist the following post examines the rise of newsletters from two different aspects: their economic benefits and engineering oportunties. 
 
-My goal is for business owners to think of opportunities for smart newsletters to grow your business.  
+My goal is for business owners to think of opportunities for smart newsletters to grow your business. Engineers and data scientists to appreciate the new challenges they present. 
 
 
 ### 3. Economic Benefits of Newsletters
