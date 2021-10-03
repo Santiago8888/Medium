@@ -1,6 +1,6 @@
 # The Economics and Engineering behind Newsletters
 
-**Abstract:** Competition in the digital space has increased as the result of tech giants monopolizing internet traffic and consumer's attention. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads. Applying advances in AI and content marketing opens opportunities to deliver personalized experience with newsletters at a fraction of the cost of traditional mediums.
+**Abstract:** Competition in the digital space has increased as a result of the monopilazation of internet traffic and consumer's attention by tech giants. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads by recurrently delivering personalized information to the user's inbox.
 
 
 ### 1. Introduction
