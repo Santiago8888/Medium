@@ -24,7 +24,7 @@ Hesitant to jump into the bandwagon, I finally made the decision last month to t
 * Quick development cycles as a result of dumping Javascript.
 * Instantanous load time facilitated by email apps' cache storage.
 * Simplified data engineering by transitioning to batch proccesing.
-* 
+* Optimal onboarding experience by delivering only the 20% of data that provides users the most value.
 
 
 ### 3. Economic Benefits of Newsletters
