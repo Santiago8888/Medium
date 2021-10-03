@@ -9,8 +9,7 @@ In Traction, Duck Duck Go's founder expains that there are [19 different acquisi
 
 In 2008 Apple launched the AppStore serving as the ideal platform to fuel the rise of startups like Uber (2009) & AirBnB (2007) that leveraged an uncompetitive landscape to acquire the critical mass required to fulfill both sides of their marketplaces. Later, as apps floded the AppStore and Javascript frameworks like Angular and React popularized Single Page Applications many of the upside of mobile apps was lost, and startups turned to web applications to begin a new generation of B2B solutions leveraging agile and continous delivery practices.
 
-
-* Benefits of newsletters on this age.
+Today, as SaaS dominate the IPO and startup ecosystem a new customer acquisition channel is gaining traction. Favoured by their low churn rates, their ideal fit to deliver sales funnels and personalization opportunities, newsletters are poised to disrupt user interfaces, how we consume information and create a new wave of startups selling intelligence leveraging recent advances in AI and recommendation systems.
 
 
 ### 2. Background
