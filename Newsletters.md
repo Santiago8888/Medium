@@ -22,7 +22,9 @@ The Morning Brew, was the first newsletter that I subscribed to, enjoyed, and be
 
 Hesitant to jump into the bandwagon, I finally made the decision last month to transition my product into a newsletter. After the beta launch I'm impressed by the results: 
 * Quick development cycles as a result of dumping Javascript.
-* Instantanous load time facilitated by email apps cache.
+* Instantanous load time facilitated by email apps' cache storage.
+* Simplified data engineering by transitioning to batch proccesing.
+* 
 
 
 ### 3. Economic Benefits of Newsletters
