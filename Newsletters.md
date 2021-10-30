@@ -1,4 +1,4 @@
-# The Economics and Engineering behind Newsletters
+# The Economics and Engineering of Newsletters
 
 **Abstract:** Competition in the digital space has increased as a result of the monopilazation of internet traffic and consumer's attention by tech giants. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads by recurrently delivering personalized information to the user's inbox.
 
