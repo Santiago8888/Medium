@@ -1,6 +1,6 @@
 # The Economics and Engineering of Newsletters
 
-**Abstract:** Competition in the digital space has increased as a result of the monopilazation of internet traffic and consumer's attention by tech giants. Newsletters present an opportunity for small and mid-sized businesses to nourish customer's loyalty and and develop new leads by recurrently delivering personalized information to the user's inbox.
+**Abstract:** Competition in the digital space has increased as a result of the monopilization of internet traffic and consumer's attention by tech giants. Newsletters have presented an opportunity for small and mid-sized businesses to nourish customer's loyalty and develop new leads. This post explains why this is possible and how it can be taken one step further with AI and uber-personalization.
 
 
 ### 1. Introduction
