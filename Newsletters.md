@@ -5,7 +5,7 @@
 
 ### 1. Introduction
 
-In Traction, Duck Duck Go's founder expains that there are [19 different acquisition channels](https://zapier.com/blog/acquire-customers/) that startups should try as part of their go-to market strategy. He acknowledges that not every acquisition channel works for every business and that the right channel may vary depending on the growth stage of the startup. Ultimately, the right acquisition channel is the one gets a startup closer to the goals required to secure the next funding round.
+In Traction, Duck Duck Go's founder expains that there are [19 different acquisition channels](https://zapier.com/blog/acquire-customers/) that startups should try as part of their go-to market strategy. He acknowledges that not every acquisition channel works for every business and that the right channel may vary depending on the growth stage of the startup. Ultimately, the right acquisition channel is the one gets them closer to next funding round. However, at each point of time there are certain acquisition channels that are inherently better based on the laws of supply and demand. 
 
 In 2008 Apple launched the AppStore serving as the ideal platform to fuel the rise of startups like Uber (2009) & AirBnB (2007) that leveraged an uncompetitive landscape to acquire the critical mass required to fulfill both sides of their marketplaces. Later, as apps floded the AppStore and Javascript frameworks like Angular (2010) and React (2013) popularized Single Page Applications many of the upside of mobile apps was lost. Then, startups turned to web applications to begin a new generation of B2B solutions leveraging agile and continous delivery practices.
 
