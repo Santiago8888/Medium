@@ -12,7 +12,7 @@ In 2008 Apple launched the AppStore serving as the ideal platform to fuel the ri
 Today, as SaaS dominate the IPO market, a new customer acquisition channel is slowly gaining traction. Favoured by its low churn rates, its ideal fit for pursuing sales funnels and its personalization opportunities, newsletters are poised to disrupt what we think of a user interface. Following the rise of Substack, and the sensational [12 billion Mailchimp's acquisition](https://techcrunch.com/2021/09/14/intuits-12b-mailchimp-acquisition-is-about-expanding-its-small-business-focus/) we are shifiting the ways how we consume information openning the door to a new wave of consumer and business oriented startup.
 
 
-### 2. Background
+### 2. Motivation
 
 Early last year (2020), I launched my first side-project a job recomendation engine for software engineers. Then, I discovered an obvious truth: driving people to your website is hard. I experienced the same as a writer: Medium and SEO will get you some traffic but if you truly want a story to be succesful you gotta take distribution in your own hands.
 
