@@ -16,18 +16,7 @@ Today, as SaaS dominate the IPO market, a new customer acquisition channel is sl
 
 Early last year (2020), I launched my first formal side-project: a job recomendation engine for software engineers. One month, before the pandemic the timing couldn't have more terrible. Despite that, I learned a valuable, yet obvious truth: driving people to your website is hard. I had experienced the same as a writer, while Medium and SEO would give some traffic to my stories, if I truly wanted to be succesful I needed to take distribution in your own hands.
 
-As a result, I turned to Twitter and other Social Media platforms to *[build an audience](https://santiagoq.medium.com/dont-build-a-startup-grow-an-audience-89b810ec891c?sk=a940f4b0a9b65b063d8e55b272ec94ca)* and own my distribution channels: It worked! I finally got steady traffic for my next project. However, I stumbled upon the second hard truth: getting people to return to your website was also not easy. And my product, a data dashboard encountered a second problem: onboarding was painstakingly complicated. New users felt overwhelmed by the amount of information, and the beautiful, minimalistic user interface we crafted was not enough to compensate the overload of information. 
-
-Hesitant to jump into the bandwagon, I finally made the decision last month to transition my product into a newsletter. After the beta launch I'm impressed by the results: 
-* Quick development cycles as a result of dumping Javascript.
-* Instantanous load time facilitated by email apps' cache storage.
-* Simplified data engineering by transitioning to batch proccesing.
-* Optimal onboarding experience by delivering only the 20% of data that provides users the most value.
-* Every email is a new opportunity to interact with users, thus reducing churn.
-
-Going forward, I'm even more bullish about newsletters as they will quickly allow me to prototype new charts and features, drive product development with A/B testing and allow development efforts to focus in data science as opposed to engineering. As a former economist the following post examines the rise of newsletters from two different aspects: their economic benefits and engineering oportunties. 
-
-My goal is for business owners to think of opportunities for smart newsletters to grow your business. Engineers and data scientists to appreciate the new challenges they present. And consumers to review your reading habits as newsletters gain relevance.
+As a result, I turned to Twitter and other Social Media platforms to *[build an audience](https://santiagoq.medium.com/dont-build-a-startup-grow-an-audience-89b810ec891c?sk=a940f4b0a9b65b063d8e55b272ec94ca)* and set up my own distribution channels: It worked! I finally got steady traffic for my next project. However, I stumbled upon the second hard truth: getting people to return to your website was also not easy. And my product, a data dashboard encountered a second problem: onboarding was painstakingly complicated. New users felt overwhelmed by the amount of information, and the beautiful, minimalistic user interface we crafted was not enough to compensate the overload of information. 
 
 
 ### 3. Economic Benefits of Newsletters
